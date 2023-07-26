@@ -1,1 +1,3 @@
-ECHO is on in master
+
+ECHO is on in new_branch_merge
+
