@@ -1,1 +1,1 @@
-ECHO is on
+ECHO is on in new_branch_merge
